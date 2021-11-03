@@ -3,5 +3,5 @@
 - 👀 I do some work developing low power sensor and like to use Loarawan for longer range communication with a mobile network. Sensors that I am currenlty working with are air quality sensors for rental accommodation.
 
 - 🌱 I’m currently learning Dart as I would like to be able to use a smart phone in some of my electronic endevors.
--
+
 - 📫 You can reach me @ michael@duplessis.nz
